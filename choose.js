@@ -1,5 +1,7 @@
 function pickQuote() {
-  $.getJSON("quotes.json", function(json) {
-    console.log(json); // this will show the info it in firebug console
-  });
+  var len = quotes.length;
+  var choice = Math.floor(Math.random() * len);
+  var quote = quotes[choice];
+  $("#quote").text('"' + quote.quote + '"');
+  $("#author").text("-" + quote.author);
 }
