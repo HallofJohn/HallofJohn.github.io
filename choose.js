@@ -1,11 +1,19 @@
 window.onload = function() {
+  pickQuote(0);
   var a = document.getElementById("button");
   a.onclick = function() {
-    var len = quotes.length;
-    var choice = Math.floor(Math.random() * len);
-    var quote = quotes[choice];
-    $("#quote").text('"' + quote.quote + '"');
-    $("#author").text("-" + quote.author);
+    pickQuote(null);
     return false;
   }
+}
+
+function pickQuote(choice) {
+  var len = quotes.length;
+  if (choice === null) {
+    choice = Math.floor(Math.random() * len);
+  }
+  var quote = quotes[choice];
+  $("#number").text((choice + 1).toString() + " / " + len.toString());
+  $("#quote").text('"' + quote.quote + '"');
+  $("#author").text("-" + quote.author);
 }

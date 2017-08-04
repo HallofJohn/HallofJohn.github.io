@@ -52,4 +52,7 @@ var quotes = [{
 }, {
   "quote": "Shut the up, Michael.",
   "author": "John Dewhirst"
+}, {
+  "quote": "Even if she were willing, that's physically impossible.",
+  "author": "John Dewhirst"
 }];

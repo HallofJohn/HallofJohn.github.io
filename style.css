@@ -9,6 +9,10 @@ h1#header {
   font-size: 80px;
 }
 
+p#number {
+  font-size: 24px;
+}
+
 p#quote {
   font-size: 56px;
 }
