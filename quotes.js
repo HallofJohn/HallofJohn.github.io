@@ -20,7 +20,7 @@ var quotes = [{
   "quote": "No, Michael, I'm really good conductive.",
   "author": "John Dewhirst"
 }, {
-  "quote": "My ass has a lot of stuff.",
+  "quote": "My a** has a lot of stuff.",
   "author": "John Dewhirst"
 }, {
   "quote": "I feel broharassed.",
@@ -44,7 +44,7 @@ var quotes = [{
   "quote": "My crutch, my rules.",
   "author": "John Dewhirst"
 }, {
-  "quote": "It's only sodomy if it's my penis.",
+  "quote": "It's only sodomy if it's my p****.",
   "author": "John Dewhirst"
 }, {
   "quote": "Almost ridiculously how sober I am.",
@@ -54,5 +54,23 @@ var quotes = [{
   "author": "John Dewhirst"
 }, {
   "quote": "Even if she were willing, that's physically impossible.",
+  "author": "John Dewhirst"
+}, {
+  "quote": "\"Why do you roll your eyes in the back of your head?\"\n\"I don't know Eric, why do you wear glasses?\"",
+  "author": "John Dewhirst"
+}, {
+  "quote": "Physical contact is inevitable.",
+  "author": "John Dewhirst"
+}, {
+  "quote": "Pompous shut it.",
+  "author": "John Dewhirst"
+}, {
+  "quote": "Me and his mom could have switched skin.",
+  "author": "John Dewhirst"
+}, {
+  "quote": "Palm Fralms.",
+  "author": "John Dewhirst"
+}, {
+  "quote": "Don't do anything sexual.",
   "author": "John Dewhirst"
 }];
