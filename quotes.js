@@ -56,7 +56,7 @@ var quotes = [{
   "quote": "Even if she were willing, that's physically impossible.",
   "author": "John Dewhirst"
 }, {
-  "quote": "\"Why do you roll your eyes in the back of your head?\"\n\"I don't know Eric, why do you wear glasses?\"",
+  "quote": "Why do you roll your eyes in the back of your head?\"<br>\"I don't know Eric, why do you wear glasses?\"",
   "author": "John Dewhirst"
 }, {
   "quote": "Physical contact is inevitable.",
