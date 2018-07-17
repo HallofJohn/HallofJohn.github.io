@@ -14,6 +14,6 @@ function pickQuote(choice) {
   }
   var quote = quotes[choice];
   $("#number").text((choice + 1).toString() + " / " + len.toString());
-  $("#quote").text('"' + quote.quote + '"');
+  $("#quote").html('"' + quote.quote + '"');
   $("#author").text("-" + quote.author);
 }
